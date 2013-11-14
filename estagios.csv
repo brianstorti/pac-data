@@ -1,0 +1,11 @@
+codigo_idn_estagio,estagio,descricao
+0,Não informado
+3,A selecionar, Empreendimentos com possibilidade de seleção para a área Social e Urbana
+5,Em contratação, "Empreendimento selecionado, em processo de envio ou análise de documentação para a contratação."
+10,Ação preparatória, "Para a área de Infraestrutura Logística e de Energia: empreendimento em etapa prévia à licitação, à contratação ou ao início da execução. Para a área Social e Urbana: empreendimento contratado, em fase de preparação para iniciar a licitação."
+40,Em licitação de obra, "Empreendimento em fase de licitação de obra ou licitação concluída, mas sem ordem de serviço."
+41,Em licitação de projeto, "Empreendimento cuja meta é a realização de estudo, projeto, plano, assistência técnica ou desenvolvimento institucional, em fase de licitação."
+70,Em obras, "Empreendimento com ordem de início autorizada ou obra iniciada."
+71,Em execução, "Empreendimento iniciado cuja meta é a realização de estudo, projeto, plano, assistência técnica ou desenvolvimento institucional."
+90,Concluído, "Empreendimento concluído, ou obra física concluída, ou estudo, projeto ou contratação finalizados."
+91,Em operação, "Empreendimento da área de Petróleo e Gás, que já entrou em operação, porém ainda não foi concluído."

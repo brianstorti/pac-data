@@ -1,0 +1,28 @@
+Tipo, Subeixo, idn_digs
+Rodovias, Transportes, 1000
+Ferrovia, Transportes, 1001
+Porto, Transportes, 1002
+Hidrovia, Transportes, 1003
+Aeroporto, Transportes, 1004
+Equipamentos - Estradas Vicinais, Transportes, 1005 
+Geração de Energia Elétrica, Energia, 2000 
+Transmissão de Energia Elétrica, Energia, 2001 
+Petróleo e Gás Natural, Energia, 2002 
+Geologia e Mineração - Cprm, Energia, 2003 
+Marinha Mercante, Energia, 2004 
+Combustíveis Renováveis, Energia, 2005 
+Saneamento, Cidade Melhor, 3000 
+Prevenção em áreas de risco, Cidade Melhor, 3001 
+Pavimentação, Cidade Melhor, 3002 
+Mobilidade Urbana, Cidade Melhor, 3003 
+UBS, Comunidade Cidadã, 4000 
+UPA, Comunidade Cidadã, 4001 
+Creches e Pré Escolas, Comunidade Cidadã, 4002 
+Quadras Esportivas nas Escolas, Comunidade Cidadã, 4003 
+Praça dos Esportes e da Cultura, Comunidade Cidadã, 4004 
+MCMV 2, Habitação, 5000 
+Urbanização de assentamentos precários, Habitação, 5001 
+Financiamento SBPE, Habitação, 5002 
+Luz para Todos, Água e Luz para todos, 6000 
+Água em áreas urbanas, Água e Luz para todos, 6001 
+Recursos Hídricos, Água e Luz para todos, 6002
