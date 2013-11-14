@@ -1,7 +1,7 @@
 #pac-data (wip)
 
 ###What?
-These are all the data that we could get from the government [http://repositorio.dados.gov.br/governo-politica/administracao-publica/pac/](open data) website.
+These are all the data that we could get from the government [open data](http://repositorio.dados.gov.br/governo-politica/administracao-publica/pac/) website.
 
 ###Why?
 We are creating this repository because we are building [pac-info](http://github.com/brianstorti/pac-info),
