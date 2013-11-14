@@ -10,7 +10,7 @@ there is a lot of files in the website, they are not properly formatted and impo
 may not be so trivial. Making this available in an easier way encourages other people to build cool stuff.
 Coding is fun, searching and formatting csv files is not.
 
-###how to use it?
+###How to use it?
 There is an `import-to-mongodb.sh` file that will read these `.csv` files and import them into your mongodb database.
 Make sure `mongod` is up and running before executing this script.
 
@@ -18,3 +18,6 @@ Make sure `mongod` is up and running before executing this script.
 * Brian Thomas Storti
 * Carlos Chiconato
 * Thiago Felix
+
+###License
+Use as you want. If you do use it, a reference would be appreciated, but not required.
