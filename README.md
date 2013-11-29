@@ -1,4 +1,4 @@
-#pac-data (wip)
+#pac-data
 
 ###What?
 These are all the data that we could get from the government [open data](http://repositorio.dados.gov.br/governo-politica/administracao-publica/pac/) website.
